@@ -33,3 +33,7 @@ You can start the backend right away with:
 
 The `database.py` file is the backbone for your PostgreSQL database.
 You can then go to the folder `/db`and add the classes and tables and logic for your database.
+
+## Local use the backend
+
+- go to `/docs` to access the openapi and test the endpoints
