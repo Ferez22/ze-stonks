@@ -6,7 +6,7 @@ You can start the backend right away with:
 
 - `uvicorn app.main:app --host 0.0.0.0 --port 5005 --reload`
   or
-- `python3 -m poetry run uvicorn app.main:app --reload --host 127.0.0.1 --port 5005`
+- `poetry run uvicorn app.main:app --reload --host 127.0.0.1 --port 5005`
 
 #### Dev
 
